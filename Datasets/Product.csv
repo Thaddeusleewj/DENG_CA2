@@ -1,0 +1,643 @@
+﻿SK_Product,product_id,product_name,model_year,list_price,category_name,brand_name
+1,CHB100,Electra Townie 3i EQ (20-inch) - Boys' - 2017,2017,489.99,Children Bicycles,Electra
+2,CHB101,Electra Townie 7D (20-inch) - Boys' - 2017,2017,339.99,Children Bicycles,Electra
+3,CHB21,Electra Cruiser 1 (24-Inch) - 2016,2016,269.99,Children Bicycles,Electra
+4,CHB22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,2016,269.99,Children Bicycles,Electra
+5,CHB23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,2016,299.99,Children Bicycles,Electra
+6,CHB262,Trek MT 201 - 2018,2018,249.99,Children Bicycles,Trek
+7,CHB263,Strider Classic 12 Balance Bike - 2018,2018,89.99,Children Bicycles,Strider
+8,CHB264,Strider Sport 16 - 2018,2018,249.99,Children Bicycles,Strider
+9,CHB265,Strider Strider 20 Sport - 2018,2018,289.99,Children Bicycles,Strider
+10,CHB266,Trek Superfly 20 - 2018,2018,399.99,Children Bicycles,Trek
+11,CHB267,Trek Precaliber 12 Girl's - 2018,2018,199.99,Children Bicycles,Trek
+12,CHB268,Trek Kickster - 2018,2018,159.99,Children Bicycles,Trek
+13,CHB269,Trek Precaliber 12 Boy's - 2018,2018,199.99,Children Bicycles,Trek
+14,CHB270,Trek Precaliber 16 Boy's - 2018,2018,209.99,Children Bicycles,Trek
+15,CHB271,Trek Precaliber 16 Girl's - 2018,2018,209.99,Children Bicycles,Trek
+16,CHB272,Trek Precaliber 20 6-speed Boy's - 2018,2018,289.99,Children Bicycles,Trek
+17,CHB273,Trek Precaliber 20 6-speed Girl's - 2018,2018,289.99,Children Bicycles,Trek
+18,CHB274,Trek Precaliber 20 Boy's - 2018,2018,229.99,Children Bicycles,Trek
+19,CHB275,Trek Precaliber 20 Girl's - 2018,2018,229.99,Children Bicycles,Trek
+20,CHB276,Trek Precaliber 24 (7-Speed) - Boys - 2018,2018,319.99,Children Bicycles,Trek
+21,CHB277,Trek Precaliber 24 21-speed Boy's - 2018,2018,369.99,Children Bicycles,Trek
+22,CHB278,Trek Precaliber 24 21-speed Girl's - 2018,2018,369.99,Children Bicycles,Trek
+23,CHB279,Trek Precaliber 24 7-speed Girl's - 2018,2018,319.99,Children Bicycles,Trek
+24,CHB280,Trek Superfly 24 - 2017/2018,2018,489.99,Children Bicycles,Trek
+25,CHB281,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,2018,319.99,Children Bicycles,Electra
+26,CHB282,Electra Cyclosaurus 1 (16-inch) - Boy's - 2018,2018,279.99,Children Bicycles,Electra
+27,CHB283,Electra Heartchya 1 (20-inch) - Girl's - 2018,2018,319.99,Children Bicycles,Electra
+28,CHB284,Electra Savannah 1 (20-inch) - Girl's - 2018,2018,319.99,Children Bicycles,Electra
+29,CHB285,Electra Soft Serve 1 (16-inch) - Girl's - 2018,2018,279.99,Children Bicycles,Electra
+30,CHB286,"Electra Starship 1 16"" - 2018",2018,279.99,Children Bicycles,Electra
+31,CHB287,Electra Straight 8 1 (16-inch) - Boy's - 2018,2018,279.99,Children Bicycles,Electra
+32,CHB288,Electra Straight 8 1 (20-inch) - Boy's - 2018,2018,389.99,Children Bicycles,Electra
+33,CHB289,"Electra Superbolt 1 20"" - 2018",2018,319.99,Children Bicycles,Electra
+34,CHB290,"Electra Superbolt 3i 20"" - 2018",2018,369.99,Children Bicycles,Electra
+35,CHB291,Electra Sweet Ride 1 (20-inch) - Girl's - 2018,2018,319.99,Children Bicycles,Electra
+36,CHB292,Electra Sweet Ride 3i (20-inch) - Girls' - 2018,2018,369.99,Children Bicycles,Electra
+37,CHB293,Electra Tiger Shark 1 (20-inch) - Boys' - 2018,2018,319.99,Children Bicycles,Electra
+38,CHB294,Electra Tiger Shark 3i (20-inch) - Boys' - 2018,2018,369.99,Children Bicycles,Electra
+39,CHB295,"Electra Treasure 1 20"" - 2018",2018,319.99,Children Bicycles,Electra
+40,CHB296,"Electra Treasure 3i 20"" - 2018",2018,369.99,Children Bicycles,Electra
+41,CHB297,"Electra Under-The-Sea 1 16"" - 2018",2018,279.99,Children Bicycles,Electra
+42,CHB298,Electra Water Lily 1 (16-inch) - Girl's - 2018,2018,279.99,Children Bicycles,Electra
+43,CHB83,Trek Boy's Kickster - 2015/2017,2017,149.99,Children Bicycles,Trek
+44,CHB84,Sun Bicycles Lil Kitt'n - 2017,2017,109.99,Children Bicycles,Sun Bicycles
+45,CHB85,Haro Downtown 16 - 2017,2017,329.99,Children Bicycles,Haro
+46,CHB86,Trek Girl's Kickster - 2017,2017,149.99,Children Bicycles,Trek
+47,CHB87,Trek Precaliber 12 Boys - 2017,2017,189.99,Children Bicycles,Trek
+48,CHB88,Trek Precaliber 12 Girls - 2017,2017,189.99,Children Bicycles,Trek
+49,CHB89,Trek Precaliber 16 Boys - 2017,2017,209.99,Children Bicycles,Trek
+50,CHB90,Trek Precaliber 16 Girls - 2017,2017,209.99,Children Bicycles,Trek
+51,CHB91,Trek Precaliber 24 (21-Speed) - Girls - 2017,2017,349.99,Children Bicycles,Trek
+52,CHB92,Haro Shredder 20 - 2017,2017,209.99,Children Bicycles,Haro
+53,CHB93,Haro Shredder 20 Girls - 2017,2017,209.99,Children Bicycles,Haro
+54,CHB94,Haro Shredder Pro 20 - 2017,2017,249.99,Children Bicycles,Haro
+55,CHB95,"Electra Girl's Hawaii 1 16"" - 2017",2017,299.99,Children Bicycles,Electra
+56,CHB96,Electra Moto 3i (20-inch) - Boy's - 2017,2017,349.99,Children Bicycles,Electra
+57,CHB97,Electra Savannah 3i (20-inch) - Girl's - 2017,2017,349.99,Children Bicycles,Electra
+58,CHB98,Electra Straight 8 3i (20-inch) - Boy's - 2017,2017,489.99,Children Bicycles,Electra
+59,CHB99,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,2017,299.99,Children Bicycles,Electra
+60,CMB102,Electra Townie Original 7D - 2017,2017,489.99,Comfort Bicycles,Electra
+61,CMB103,Sun Bicycles Streamway 3 - 2017,2017,551.99,Comfort Bicycles,Sun Bicycles
+62,CMB104,Sun Bicycles Streamway - 2017,2017,481.99,Comfort Bicycles,Sun Bicycles
+63,CMB105,Sun Bicycles Streamway 7 - 2017,2017,533.99,Comfort Bicycles,Sun Bicycles
+64,CMB106,Sun Bicycles Cruz 3 - 2017,2017,449.99,Comfort Bicycles,Sun Bicycles
+65,CMB107,Sun Bicycles Cruz 7 - 2017,2017,416.99,Comfort Bicycles,Sun Bicycles
+66,CMB108,Sun Bicycles Cruz 3 - Women's - 2017,2017,449.99,Comfort Bicycles,Sun Bicycles
+67,CMB109,Sun Bicycles Cruz 7 - Women's - 2017,2017,416.99,Comfort Bicycles,Sun Bicycles
+68,CMB110,Sun Bicycles Drifter 7 - 2017,2017,470.99,Comfort Bicycles,Sun Bicycles
+69,CMB111,Sun Bicycles Drifter 7 - Women's - 2017,2017,470.99,Comfort Bicycles,Sun Bicycles
+70,CMB24,Electra Townie Original 21D - 2016,2016,549.99,Comfort Bicycles,Electra
+71,CMB25,Electra Townie Original 7D - 2015/2016,2016,499.99,Comfort Bicycles,Electra
+72,CMB26,Electra Townie Original 7D EQ - 2016,2016,599.99,Comfort Bicycles,Electra
+73,CMB299,Electra Townie Original 21D - 2018,2018,559.99,Comfort Bicycles,Electra
+74,CMB300,Electra Townie Balloon 3i EQ Ladies' - 2018,2018,799.99,Comfort Bicycles,Electra
+75,CMB301,Electra Townie Balloon 7i EQ - 2018,2018,899.99,Comfort Bicycles,Electra
+76,CMB302,Electra Townie Original 1 - 2018,2018,449.99,Comfort Bicycles,Electra
+77,CMB303,Electra Townie Go! 8i - 2017/2018,2018,2599.99,Comfort Bicycles,Electra
+78,CMB304,Electra Townie Original 21D EQ - 2017/2018,2018,679.99,Comfort Bicycles,Electra
+79,CMB305,Electra Townie Balloon 3i EQ - 2017/2018,2018,749.99,Comfort Bicycles,Electra
+80,CMB306,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,2018,899.99,Comfort Bicycles,Electra
+81,CMB307,Electra Townie Balloon 8D EQ - 2016/2017/2018,2018,749.99,Comfort Bicycles,Electra
+82,CMB308,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,2018,749.99,Comfort Bicycles,Electra
+83,CMB309,Electra Townie Commute 27D - 2018,2018,899.99,Comfort Bicycles,Electra
+84,CMB310,Electra Townie Commute 27D Ladies - 2018,2018,899.99,Comfort Bicycles,Electra
+85,CMB311,Electra Townie Commute 8D - 2018,2018,749.99,Comfort Bicycles,Electra
+86,CMB312,Electra Townie Commute 8D Ladies' - 2018,2018,699.99,Comfort Bicycles,Electra
+87,CMB313,Electra Townie Original 1 Ladies' - 2018,2018,449.99,Comfort Bicycles,Electra
+88,CMB314,Electra Townie Original 21D EQ Ladies' - 2018,2018,679.99,Comfort Bicycles,Electra
+89,CMB315,Electra Townie Original 21D Ladies' - 2018,2018,559.99,Comfort Bicycles,Electra
+90,CRB12,Electra Townie Original 21D - 2016,2016,549.99,Cruisers Bicycles,Electra
+91,CRB13,Electra Cruiser 1 (24-Inch) - 2016,2016,269.99,Cruisers Bicycles,Electra
+92,CRB14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,2016,269.99,Cruisers Bicycles,Electra
+93,CRB15,Electra Moto 1 - 2016,2016,529.99,Cruisers Bicycles,Electra
+94,CRB16,Electra Townie Original 7D EQ - 2016,2016,599.99,Cruisers Bicycles,Electra
+95,CRB17,Pure Cycles Vine 8-Speed - 2016,2016,429.00,Cruisers Bicycles,Pure Cycles
+96,CRB18,Pure Cycles Western 3-Speed - Women's - 2015/2016,2016,449.00,Cruisers Bicycles,Pure Cycles
+97,CRB19,Pure Cycles William 3-Speed - 2016,2016,449.00,Cruisers Bicycles,Pure Cycles
+98,CRB20,Electra Townie Original 7D EQ - Women's - 2016,2016,599.99,Cruisers Bicycles,Electra
+99,CRB212,Electra Townie Original 21D - 2018,2018,559.99,Cruisers Bicycles,Electra
+100,CRB213,Electra Cruiser 1 - 2016/2017/2018,2018,269.99,Cruisers Bicycles,Electra
+101,CRB214,Electra Tiger Shark 3i - 2018,2018,899.99,Cruisers Bicycles,Electra
+102,CRB215,Electra Queen of Hearts 3i - 2018,2018,749.99,Cruisers Bicycles,Electra
+103,CRB216,Electra Super Moto 8i - 2018,2018,899.99,Cruisers Bicycles,Electra
+104,CRB217,Electra Straight 8 3i - 2018,2018,909.99,Cruisers Bicycles,Electra
+105,CRB218,Electra Cruiser 7D - 2016/2017/2018,2018,319.99,Cruisers Bicycles,Electra
+106,CRB219,Electra Moto 3i - 2018,2018,639.99,Cruisers Bicycles,Electra
+107,CRB220,Electra Cruiser 1 Ladies' - 2018,2018,269.99,Cruisers Bicycles,Electra
+108,CRB221,Electra Cruiser 7D Ladies' - 2016/2018,2018,319.99,Cruisers Bicycles,Electra
+109,CRB222,Electra Cruiser 1 Tall - 2016/2018,2018,269.99,Cruisers Bicycles,Electra
+110,CRB223,Electra Cruiser Lux 3i - 2018,2018,529.99,Cruisers Bicycles,Electra
+111,CRB224,Electra Cruiser Lux 7D - 2018,2018,479.99,Cruisers Bicycles,Electra
+112,CRB225,Electra Delivery 3i - 2016/2017/2018,2018,959.99,Cruisers Bicycles,Electra
+113,CRB226,Electra Townie Original 21D EQ - 2017/2018,2018,679.99,Cruisers Bicycles,Electra
+114,CRB227,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,2018,319.99,Cruisers Bicycles,Electra
+115,CRB228,Electra Cruiser 7D Tall - 2016/2018,2018,319.99,Cruisers Bicycles,Electra
+116,CRB229,Electra Cruiser Lux 1 - 2016/2018,2018,429.99,Cruisers Bicycles,Electra
+117,CRB230,Electra Cruiser Lux 1 Ladies' - 2018,2018,429.99,Cruisers Bicycles,Electra
+118,CRB231,Electra Cruiser Lux 3i Ladies' - 2018,2018,529.99,Cruisers Bicycles,Electra
+119,CRB232,Electra Cruiser Lux 7D Ladies' - 2018,2018,479.99,Cruisers Bicycles,Electra
+120,CRB233,Electra Cruiser Lux Fat Tire 7D - 2018,2018,639.99,Cruisers Bicycles,Electra
+121,CRB234,Electra Daydreamer 3i Ladies' - 2018,2018,899.99,Cruisers Bicycles,Electra
+122,CRB235,Electra Koa 3i Ladies' - 2018,2018,899.99,Cruisers Bicycles,Electra
+123,CRB236,Electra Morningstar 3i Ladies' - 2018,2018,749.99,Cruisers Bicycles,Electra
+124,CRB237,Electra Relic 3i - 2018,2018,849.99,Cruisers Bicycles,Electra
+125,CRB238,Electra Townie Balloon 8D EQ - 2016/2017/2018,2018,749.99,Cruisers Bicycles,Electra
+126,CRB239,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,2018,749.99,Cruisers Bicycles,Electra
+127,CRB240,Electra Townie Commute 27D Ladies - 2018,2018,899.99,Cruisers Bicycles,Electra
+128,CRB241,Electra Townie Commute 8D - 2018,2018,749.99,Cruisers Bicycles,Electra
+129,CRB242,Electra Townie Commute 8D Ladies' - 2018,2018,699.99,Cruisers Bicycles,Electra
+130,CRB243,Electra Townie Original 21D EQ Ladies' - 2018,2018,679.99,Cruisers Bicycles,Electra
+131,CRB244,Electra Townie Original 21D Ladies' - 2018,2018,559.99,Cruisers Bicycles,Electra
+132,CRB245,Electra Townie Original 3i EQ - 2017/2018,2018,659.99,Cruisers Bicycles,Electra
+133,CRB246,Electra Townie Original 3i EQ Ladies' - 2018,2018,639.99,Cruisers Bicycles,Electra
+134,CRB247,Electra Townie Original 7D EQ - 2018,2018,599.99,Cruisers Bicycles,Electra
+135,CRB248,Electra Townie Original 7D EQ Ladies' - 2017/2018,2018,599.99,Cruisers Bicycles,Electra
+136,CRB249,Electra White Water 3i - 2018,2018,749.99,Cruisers Bicycles,Electra
+137,CRB250,Electra Townie Go! 8i - 2017/2018,2018,2599.99,Cruisers Bicycles,Electra
+138,CRB251,Electra Townie Commute Go! - 2018,2018,2999.99,Cruisers Bicycles,Electra
+139,CRB252,Electra Townie Commute Go! Ladies' - 2018,2018,2999.99,Cruisers Bicycles,Electra
+140,CRB253,Electra Townie Go! 8i Ladies' - 2018,2018,2599.99,Cruisers Bicycles,Electra
+141,CRB254,Electra Townie Balloon 3i EQ - 2017/2018,2018,749.99,Cruisers Bicycles,Electra
+142,CRB255,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,2018,899.99,Cruisers Bicycles,Electra
+143,CRB256,Electra Townie Commute 27D - 2018,2018,899.99,Cruisers Bicycles,Electra
+144,CRB257,Electra Amsterdam Fashion 3i Ladies' - 2017/2018,2018,899.99,Cruisers Bicycles,Electra
+145,CRB258,Electra Amsterdam Royal 8i - 2017/2018,2018,1259.90,Cruisers Bicycles,Electra
+146,CRB259,Electra Amsterdam Royal 8i Ladies - 2018,2018,1199.99,Cruisers Bicycles,Electra
+147,CRB260,Electra Townie Balloon 3i EQ Ladies' - 2018,2018,799.99,Cruisers Bicycles,Electra
+148,CRB261,Electra Townie Balloon 7i EQ - 2018,2018,899.99,Cruisers Bicycles,Electra
+149,CRB64,Electra Townie Original 7D - 2017,2017,489.99,Cruisers Bicycles,Electra
+150,CRB65,Sun Bicycles Lil Bolt Type-R - 2017,2017,346.99,Cruisers Bicycles,Sun Bicycles
+151,CRB66,Sun Bicycles Revolutions 24 - 2017,2017,250.99,Cruisers Bicycles,Sun Bicycles
+152,CRB67,Sun Bicycles Revolutions 24 - Girl's - 2017,2017,250.99,Cruisers Bicycles,Sun Bicycles
+153,CRB68,Sun Bicycles Cruz 3 - 2017,2017,449.99,Cruisers Bicycles,Sun Bicycles
+154,CRB69,Sun Bicycles Cruz 7 - 2017,2017,416.99,Cruisers Bicycles,Sun Bicycles
+155,CRB70,Electra Amsterdam Original 3i - 2015/2017,2017,659.99,Cruisers Bicycles,Electra
+156,CRB71,Sun Bicycles Atlas X-Type - 2017,2017,416.99,Cruisers Bicycles,Sun Bicycles
+157,CRB72,Sun Bicycles Biscayne Tandem 7 - 2017,2017,619.99,Cruisers Bicycles,Sun Bicycles
+158,CRB73,Sun Bicycles Brickell Tandem 7 - 2017,2017,749.99,Cruisers Bicycles,Sun Bicycles
+159,CRB74,Electra Cruiser Lux 1 - 2017,2017,439.99,Cruisers Bicycles,Electra
+160,CRB75,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,2017,599.99,Cruisers Bicycles,Electra
+161,CRB76,"Electra Girl's Hawaii 1 16"" - 2017",2017,299.99,Cruisers Bicycles,Electra
+162,CRB77,Electra Glam Punk 3i Ladies' - 2017,2017,799.99,Cruisers Bicycles,Electra
+163,CRB78,Sun Bicycles Biscayne Tandem CB - 2017,2017,647.99,Cruisers Bicycles,Sun Bicycles
+164,CRB79,Sun Bicycles Boardwalk (24-inch Wheels) - 2017,2017,402.99,Cruisers Bicycles,Sun Bicycles
+165,CRB80,Sun Bicycles Brickell Tandem CB - 2017,2017,761.99,Cruisers Bicycles,Sun Bicycles
+166,CRB81,Electra Amsterdam Fashion 7i Ladies' - 2017,2017,1099.99,Cruisers Bicycles,Electra
+167,CRB82,Electra Amsterdam Original 3i Ladies' - 2017,2017,659.99,Cruisers Bicycles,Electra
+168,CYB10,Surly Straggler - 2016,2016,1549.00,Cyclocross Bicycles,Surly
+169,CYB11,Surly Straggler 650b - 2016,2016,1680.99,Cyclocross Bicycles,Surly
+170,CYB206,Trek Boone 5 Disc - 2018,2018,3299.99,Cyclocross Bicycles,Trek
+171,CYB207,Trek Boone 7 Disc - 2018,2018,3999.99,Cyclocross Bicycles,Trek
+172,CYB208,Trek Crockett 5 Disc - 2018,2018,1799.99,Cyclocross Bicycles,Trek
+173,CYB209,Trek Crockett 7 Disc - 2018,2018,2999.99,Cyclocross Bicycles,Trek
+174,CYB210,Surly Straggler - 2018,2018,1549.00,Cyclocross Bicycles,Surly
+175,CYB211,Surly Straggler 650b - 2018,2018,1549.00,Cyclocross Bicycles,Surly
+176,CYB62,Trek Boone 7 - 2017,2017,3499.99,Cyclocross Bicycles,Trek
+177,CYB63,Trek Boone Race Shop Limited - 2017,2017,3499.99,Cyclocross Bicycles,Trek
+178,ELB185,Trek Conduit+ - 2018,2018,2799.99,Electric Bikes,Trek
+179,ELB186,Trek CrossRip+ - 2018,2018,4499.99,Electric Bikes,Trek
+180,ELB187,Trek Neko+ - 2018,2018,2799.99,Electric Bikes,Trek
+181,ELB188,Trek XM700+ Lowstep - 2018,2018,3499.99,Electric Bikes,Trek
+182,ELB189,Trek Lift+ Lowstep - 2018,2018,2799.99,Electric Bikes,Trek
+183,ELB190,Trek Dual Sport+ - 2018,2018,2799.99,Electric Bikes,Trek
+184,ELB191,Electra Loft Go! 8i - 2018,2018,2799.99,Electric Bikes,Electra
+185,ELB192,Electra Townie Go! 8i - 2017/2018,2018,2599.99,Electric Bikes,Electra
+186,ELB193,Trek Lift+ - 2018,2018,2799.99,Electric Bikes,Trek
+187,ELB194,Trek XM700+ - 2018,2018,3499.99,Electric Bikes,Trek
+188,ELB195,Electra Townie Go! 8i Ladies' - 2018,2018,2599.99,Electric Bikes,Electra
+189,ELB196,Trek Verve+ - 2018,2018,2299.99,Electric Bikes,Trek
+190,ELB197,Trek Verve+ Lowstep - 2018,2018,2299.99,Electric Bikes,Trek
+191,ELB198,Electra Townie Commute Go! - 2018,2018,2999.99,Electric Bikes,Electra
+192,ELB199,Electra Townie Commute Go! Ladies' - 2018,2018,2999.99,Electric Bikes,Electra
+193,ELB200,Trek Powerfly 5 - 2018,2018,3499.99,Electric Bikes,Trek
+194,ELB201,Trek Powerfly 5 FS - 2018,2018,4499.99,Electric Bikes,Trek
+195,ELB202,Trek Powerfly 5 Women's - 2018,2018,3499.99,Electric Bikes,Trek
+196,ELB203,Trek Powerfly 7 FS - 2018,2018,4999.99,Electric Bikes,Trek
+197,ELB204,Trek Super Commuter+ 7 - 2018,2018,3599.99,Electric Bikes,Trek
+198,ELB205,Trek Super Commuter+ 8S - 2018,2018,4999.99,Electric Bikes,Trek
+199,ELB60,Sun Bicycles ElectroLite - 2017,2017,1559.99,Electric Bikes,Sun Bicycles
+200,ELB61,Trek Powerfly 8 FS Plus - 2017,2017,4999.99,Electric Bikes,Trek
+201,ELB9,Trek Conduit+ - 2016,2016,2999.99,Electric Bikes,Trek
+202,MOB1,Trek 820 - 2016,2016,379.99,Mountain Bikes,Trek
+203,MOB112,Trek 820 - 2018,2018,379.99,Mountain Bikes,Trek
+204,MOB113,Trek Marlin 5 - 2018,2018,489.99,Mountain Bikes,Trek
+205,MOB114,Trek Marlin 6 - 2018,2018,579.99,Mountain Bikes,Trek
+206,MOB115,Trek Fuel EX 8 29 - 2018,2018,3199.99,Mountain Bikes,Trek
+207,MOB116,Trek Marlin 7 - 2017/2018,2018,749.99,Mountain Bikes,Trek
+208,MOB117,Trek Ticket S Frame - 2018,2018,1469.99,Mountain Bikes,Trek
+209,MOB118,Trek X-Caliber 8 - 2018,2018,999.99,Mountain Bikes,Trek
+210,MOB119,Trek Kids' Neko - 2018,2018,469.99,Mountain Bikes,Trek
+211,MOB120,Trek Fuel EX 7 29 - 2018,2018,2499.99,Mountain Bikes,Trek
+212,MOB121,Surly Krampus Frameset - 2018,2018,2499.99,Mountain Bikes,Surly
+213,MOB122,Surly Troll Frameset - 2018,2018,2499.99,Mountain Bikes,Surly
+214,MOB123,Trek Farley Carbon Frameset - 2018,2018,999.99,Mountain Bikes,Trek
+215,MOB124,Surly Krampus - 2018,2018,1499.00,Mountain Bikes,Surly
+216,MOB125,Trek Kids' Dual Sport - 2018,2018,469.99,Mountain Bikes,Trek
+217,MOB126,Surly Big Fat Dummy Frameset - 2018,2018,469.99,Mountain Bikes,Surly
+218,MOB127,Surly Pack Rat Frameset - 2018,2018,469.99,Mountain Bikes,Surly
+219,MOB128,Surly ECR 27.5 - 2018,2018,1899.00,Mountain Bikes,Surly
+220,MOB129,Trek X-Caliber 7 - 2018,2018,919.99,Mountain Bikes,Trek
+221,MOB130,Trek Stache Carbon Frameset - 2018,2018,919.99,Mountain Bikes,Trek
+222,MOB131,Heller Bloodhound Trail - 2018,2018,2599.00,Mountain Bikes,Heller
+223,MOB132,Trek Procal AL Frameset - 2018,2018,1499.99,Mountain Bikes,Trek
+224,MOB133,Trek Procaliber Frameset - 2018,2018,1499.99,Mountain Bikes,Trek
+225,MOB134,Trek Remedy 27.5 C Frameset - 2018,2018,1499.99,Mountain Bikes,Trek
+226,MOB135,Trek X-Caliber Frameset - 2018,2018,1499.99,Mountain Bikes,Trek
+227,MOB136,Trek Procaliber 6 - 2018,2018,1799.99,Mountain Bikes,Trek
+228,MOB137,Heller Shagamaw GX1 - 2018,2018,2599.00,Mountain Bikes,Heller
+229,MOB138,Trek Fuel EX 5 Plus - 2018,2018,2249.99,Mountain Bikes,Trek
+230,MOB139,Trek Remedy 7 27.5 - 2018,2018,2999.99,Mountain Bikes,Trek
+231,MOB140,Trek Remedy 9.8 27.5 - 2018,2018,4999.99,Mountain Bikes,Trek
+232,MOB141,Trek Stache 5 - 2018,2018,1599.99,Mountain Bikes,Trek
+233,MOB142,Trek Fuel EX 8 29 XT - 2018,2018,3199.99,Mountain Bikes,Trek
+234,MOB2,Ritchey Timberwolf Frameset - 2016,2016,749.99,Mountain Bikes,Ritchey
+235,MOB27,Surly Big Dummy Frameset - 2017,2017,999.99,Mountain Bikes,Surly
+236,MOB28,Surly Karate Monkey 27.5+ Frameset - 2017,2017,2499.99,Mountain Bikes,Surly
+237,MOB29,Trek X-Caliber 8 - 2017,2017,999.99,Mountain Bikes,Trek
+238,MOB3,Surly Wednesday Frameset - 2016,2016,999.99,Mountain Bikes,Surly
+239,MOB30,Surly Ice Cream Truck Frameset - 2017,2017,999.99,Mountain Bikes,Surly
+240,MOB31,Surly Wednesday - 2017,2017,1632.99,Mountain Bikes,Surly
+241,MOB32,Trek Farley Alloy Frameset - 2017,2017,469.99,Mountain Bikes,Trek
+242,MOB33,Surly Wednesday Frameset - 2017,2017,469.99,Mountain Bikes,Surly
+243,MOB34,Trek Session DH 27.5 Carbon Frameset - 2017,2017,469.99,Mountain Bikes,Trek
+244,MOB35,Sun Bicycles Spider 3i - 2017,2017,832.99,Mountain Bikes,Sun Bicycles
+245,MOB36,Surly Troll Frameset - 2017,2017,832.99,Mountain Bikes,Surly
+246,MOB37,Haro Flightline One ST - 2017,2017,379.99,Mountain Bikes,Haro
+247,MOB38,Haro Flightline Two 26 Plus - 2017,2017,549.99,Mountain Bikes,Haro
+248,MOB39,Trek Stache 5 - 2017,2017,1499.99,Mountain Bikes,Trek
+249,MOB4,Trek Fuel EX 8 29 - 2016,2016,2899.99,Mountain Bikes,Trek
+250,MOB40,Trek Fuel EX 9.8 29 - 2017,2017,4999.99,Mountain Bikes,Trek
+251,MOB41,Haro Shift R3 - 2017,2017,1469.99,Mountain Bikes,Haro
+252,MOB42,Trek Fuel EX 5 27.5 Plus - 2017,2017,2299.99,Mountain Bikes,Trek
+253,MOB43,Trek Fuel EX 9.8 27.5 Plus - 2017,2017,5299.99,Mountain Bikes,Trek
+254,MOB44,Haro SR 1.1 - 2017,2017,539.99,Mountain Bikes,Haro
+255,MOB45,Haro SR 1.2 - 2017,2017,869.99,Mountain Bikes,Haro
+256,MOB46,Haro SR 1.3 - 2017,2017,1409.99,Mountain Bikes,Haro
+257,MOB47,Trek Remedy 9.8 - 2017,2017,5299.99,Mountain Bikes,Trek
+258,MOB5,Heller Shagamaw Frame - 2016,2016,1320.99,Mountain Bikes,Heller
+259,MOB6,Surly Ice Cream Truck Frameset - 2016,2016,469.99,Mountain Bikes,Surly
+260,MOB7,Trek Slash 8 27.5 - 2016,2016,3999.99,Mountain Bikes,Trek
+261,MOB8,Trek Remedy 29 Carbon Frameset - 2016,2016,1799.99,Mountain Bikes,Trek
+262,RDB143,Trek Domane ALR 3 - 2018,2018,1099.99,Road Bikes,Trek
+263,RDB144,Trek Domane ALR 4 Disc - 2018,2018,1549.99,Road Bikes,Trek
+264,RDB145,Trek Domane ALR 5 Disc - 2018,2018,1799.99,Road Bikes,Trek
+265,RDB146,Trek Domane SLR 6 - 2018,2018,4999.99,Road Bikes,Trek
+266,RDB147,Trek Domane ALR 5 Gravel - 2018,2018,1799.99,Road Bikes,Trek
+267,RDB148,Trek Domane SL 8 Disc - 2018,2018,5499.99,Road Bikes,Trek
+268,RDB149,Trek Domane SLR 8 Disc - 2018,2018,7499.99,Road Bikes,Trek
+269,RDB150,Trek Emonda SL 7 - 2018,2018,4499.99,Road Bikes,Trek
+270,RDB151,Trek Domane ALR 4 Disc Women's - 2018,2018,1549.99,Road Bikes,Trek
+271,RDB152,Trek Domane SL 5 Disc Women's - 2018,2018,2499.99,Road Bikes,Trek
+272,RDB153,Trek Domane SL 7 Women's - 2018,2018,4999.99,Road Bikes,Trek
+273,RDB154,Trek Domane SLR 6 Disc Women's - 2018,2018,5499.99,Road Bikes,Trek
+274,RDB155,Trek Domane SLR 9 Disc - 2018,2018,11999.99,Road Bikes,Trek
+275,RDB156,Trek Domane SL Frameset - 2018,2018,6499.99,Road Bikes,Trek
+276,RDB157,Trek Domane SL Frameset Women's - 2018,2018,6499.99,Road Bikes,Trek
+277,RDB158,Trek CrossRip 1 - 2018,2018,959.99,Road Bikes,Trek
+278,RDB159,Trek Emonda ALR 6 - 2018,2018,2299.99,Road Bikes,Trek
+279,RDB160,Trek Emonda SLR 6 - 2018,2018,4499.99,Road Bikes,Trek
+280,RDB161,Surly ECR - 2018,2018,1899.00,Road Bikes,Surly
+281,RDB162,Trek Emonda SL 6 Disc - 2018,2018,2999.99,Road Bikes,Trek
+282,RDB163,Surly Pack Rat - 2018,2018,1349.00,Road Bikes,Surly
+283,RDB164,Surly Straggler 650b - 2018,2018,1549.00,Road Bikes,Surly
+284,RDB165,Trek 1120 - 2018,2018,2499.99,Road Bikes,Trek
+285,RDB166,Trek Domane AL 2 Women's - 2018,2018,749.99,Road Bikes,Trek
+286,RDB167,Surly ECR Frameset - 2018,2018,749.99,Road Bikes,Surly
+287,RDB168,Surly Straggler - 2018,2018,1549.00,Road Bikes,Surly
+288,RDB169,Trek Emonda SLR 8 - 2018,2018,6499.99,Road Bikes,Trek
+289,RDB170,Trek CrossRip 2 - 2018,2018,1299.99,Road Bikes,Trek
+290,RDB171,Trek Domane SL 6 - 2018,2018,3199.99,Road Bikes,Trek
+291,RDB172,Trek Domane ALR Disc Frameset - 2018,2018,3199.99,Road Bikes,Trek
+292,RDB173,Trek Domane ALR Frameset - 2018,2018,3199.99,Road Bikes,Trek
+293,RDB174,Trek Domane SLR Disc Frameset - 2018,2018,3199.99,Road Bikes,Trek
+294,RDB175,Trek Domane SLR Frameset - 2018,2018,3199.99,Road Bikes,Trek
+295,RDB176,Trek Madone 9 Frameset - 2018,2018,3199.99,Road Bikes,Trek
+296,RDB177,Trek Domane SLR 6 Disc - 2018,2018,5499.99,Road Bikes,Trek
+297,RDB178,Trek Domane AL 2 - 2018,2018,749.99,Road Bikes,Trek
+298,RDB179,Trek Domane AL 3 - 2018,2018,919.99,Road Bikes,Trek
+299,RDB180,Trek Domane AL 3 Women's - 2018,2018,919.99,Road Bikes,Trek
+300,RDB181,Trek Domane SL 5 - 2018,2018,2199.99,Road Bikes,Trek
+301,RDB182,Trek Domane SL 5 Disc - 2018,2018,2499.99,Road Bikes,Trek
+302,RDB183,Trek Domane SL 5 Women's - 2018,2018,2199.99,Road Bikes,Trek
+303,RDB184,Trek Domane SL 6 Disc - 2018,2018,3499.99,Road Bikes,Trek
+304,RDB316,Trek Checkpoint ALR 4 Women's - 2019,2019,1699.99,Road Bikes,Trek
+305,RDB317,Trek Checkpoint ALR 5 - 2019,2019,1999.99,Road Bikes,Trek
+306,RDB318,Trek Checkpoint ALR 5 Women's - 2019,2019,1999.99,Road Bikes,Trek
+307,RDB319,Trek Checkpoint SL 5 Women's - 2019,2019,2799.99,Road Bikes,Trek
+308,RDB320,Trek Checkpoint SL 6 - 2019,2019,3799.99,Road Bikes,Trek
+309,RDB321,Trek Checkpoint ALR Frameset - 2019,2019,3199.99,Road Bikes,Trek
+310,RDB48,Trek Emonda S 4 - 2017,2017,1499.99,Road Bikes,Trek
+311,RDB49,Trek Domane SL 6 - 2017,2017,3499.99,Road Bikes,Trek
+312,RDB50,Trek Silque SLR 7 Women's - 2017,2017,5999.99,Road Bikes,Trek
+313,RDB51,Trek Silque SLR 8 Women's - 2017,2017,6499.99,Road Bikes,Trek
+314,RDB52,Surly Steamroller - 2017,2017,875.99,Road Bikes,Surly
+315,RDB53,Surly Ogre Frameset - 2017,2017,749.99,Road Bikes,Surly
+316,RDB54,Trek Domane SL Disc Frameset - 2017,2017,3199.99,Road Bikes,Trek
+317,RDB55,Trek Domane S 6 - 2017,2017,2699.99,Road Bikes,Trek
+318,RDB56,Trek Domane SLR 6 Disc - 2017,2017,5499.99,Road Bikes,Trek
+319,RDB57,Trek Emonda S 5 - 2017,2017,1999.99,Road Bikes,Trek
+320,RDB58,Trek Madone 9.2 - 2017,2017,4999.99,Road Bikes,Trek
+321,RDB59,Trek Domane S 5 Disc - 2017,2017,2599.99,Road Bikes,Trek
+322,CHB100,Electra Townie 3i EQ (20-inch) - Boys' - 2017,2017,489.99,Children Bicycles,Electra
+323,CHB101,Electra Townie 7D (20-inch) - Boys' - 2017,2017,339.99,Children Bicycles,Electra
+324,CHB21,Electra Cruiser 1 (24-Inch) - 2016,2016,269.99,Children Bicycles,Electra
+325,CHB22,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,2016,269.99,Children Bicycles,Electra
+326,CHB23,Electra Girl's Hawaii 1 (20-inch) - 2015/2016,2016,299.99,Children Bicycles,Electra
+327,CHB262,Trek MT 201 - 2018,2018,249.99,Children Bicycles,Trek
+328,CHB263,Strider Classic 12 Balance Bike - 2018,2018,89.99,Children Bicycles,Strider
+329,CHB264,Strider Sport 16 - 2018,2018,249.99,Children Bicycles,Strider
+330,CHB265,Strider Strider 20 Sport - 2018,2018,289.99,Children Bicycles,Strider
+331,CHB266,Trek Superfly 20 - 2018,2018,399.99,Children Bicycles,Trek
+332,CHB267,Trek Precaliber 12 Girl's - 2018,2018,199.99,Children Bicycles,Trek
+333,CHB268,Trek Kickster - 2018,2018,159.99,Children Bicycles,Trek
+334,CHB269,Trek Precaliber 12 Boy's - 2018,2018,199.99,Children Bicycles,Trek
+335,CHB270,Trek Precaliber 16 Boy's - 2018,2018,209.99,Children Bicycles,Trek
+336,CHB271,Trek Precaliber 16 Girl's - 2018,2018,209.99,Children Bicycles,Trek
+337,CHB272,Trek Precaliber 20 6-speed Boy's - 2018,2018,289.99,Children Bicycles,Trek
+338,CHB273,Trek Precaliber 20 6-speed Girl's - 2018,2018,289.99,Children Bicycles,Trek
+339,CHB274,Trek Precaliber 20 Boy's - 2018,2018,229.99,Children Bicycles,Trek
+340,CHB275,Trek Precaliber 20 Girl's - 2018,2018,229.99,Children Bicycles,Trek
+341,CHB276,Trek Precaliber 24 (7-Speed) - Boys - 2018,2018,319.99,Children Bicycles,Trek
+342,CHB277,Trek Precaliber 24 21-speed Boy's - 2018,2018,369.99,Children Bicycles,Trek
+343,CHB278,Trek Precaliber 24 21-speed Girl's - 2018,2018,369.99,Children Bicycles,Trek
+344,CHB279,Trek Precaliber 24 7-speed Girl's - 2018,2018,319.99,Children Bicycles,Trek
+345,CHB280,Trek Superfly 24 - 2017/2018,2018,489.99,Children Bicycles,Trek
+346,CHB281,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,2018,319.99,Children Bicycles,Electra
+347,CHB282,Electra Cyclosaurus 1 (16-inch) - Boy's - 2018,2018,279.99,Children Bicycles,Electra
+348,CHB283,Electra Heartchya 1 (20-inch) - Girl's - 2018,2018,319.99,Children Bicycles,Electra
+349,CHB284,Electra Savannah 1 (20-inch) - Girl's - 2018,2018,319.99,Children Bicycles,Electra
+350,CHB285,Electra Soft Serve 1 (16-inch) - Girl's - 2018,2018,279.99,Children Bicycles,Electra
+351,CHB286,"Electra Starship 1 16"" - 2018",2018,279.99,Children Bicycles,Electra
+352,CHB287,Electra Straight 8 1 (16-inch) - Boy's - 2018,2018,279.99,Children Bicycles,Electra
+353,CHB288,Electra Straight 8 1 (20-inch) - Boy's - 2018,2018,389.99,Children Bicycles,Electra
+354,CHB289,"Electra Superbolt 1 20"" - 2018",2018,319.99,Children Bicycles,Electra
+355,CHB290,"Electra Superbolt 3i 20"" - 2018",2018,369.99,Children Bicycles,Electra
+356,CHB291,Electra Sweet Ride 1 (20-inch) - Girl's - 2018,2018,319.99,Children Bicycles,Electra
+357,CHB292,Electra Sweet Ride 3i (20-inch) - Girls' - 2018,2018,369.99,Children Bicycles,Electra
+358,CHB293,Electra Tiger Shark 1 (20-inch) - Boys' - 2018,2018,319.99,Children Bicycles,Electra
+359,CHB294,Electra Tiger Shark 3i (20-inch) - Boys' - 2018,2018,369.99,Children Bicycles,Electra
+360,CHB295,"Electra Treasure 1 20"" - 2018",2018,319.99,Children Bicycles,Electra
+361,CHB296,"Electra Treasure 3i 20"" - 2018",2018,369.99,Children Bicycles,Electra
+362,CHB297,"Electra Under-The-Sea 1 16"" - 2018",2018,279.99,Children Bicycles,Electra
+363,CHB298,Electra Water Lily 1 (16-inch) - Girl's - 2018,2018,279.99,Children Bicycles,Electra
+364,CHB83,Trek Boy's Kickster - 2015/2017,2017,149.99,Children Bicycles,Trek
+365,CHB84,Sun Bicycles Lil Kitt'n - 2017,2017,109.99,Children Bicycles,Sun Bicycles
+366,CHB85,Haro Downtown 16 - 2017,2017,329.99,Children Bicycles,Haro
+367,CHB86,Trek Girl's Kickster - 2017,2017,149.99,Children Bicycles,Trek
+368,CHB87,Trek Precaliber 12 Boys - 2017,2017,189.99,Children Bicycles,Trek
+369,CHB88,Trek Precaliber 12 Girls - 2017,2017,189.99,Children Bicycles,Trek
+370,CHB89,Trek Precaliber 16 Boys - 2017,2017,209.99,Children Bicycles,Trek
+371,CHB90,Trek Precaliber 16 Girls - 2017,2017,209.99,Children Bicycles,Trek
+372,CHB91,Trek Precaliber 24 (21-Speed) - Girls - 2017,2017,349.99,Children Bicycles,Trek
+373,CHB92,Haro Shredder 20 - 2017,2017,209.99,Children Bicycles,Haro
+374,CHB93,Haro Shredder 20 Girls - 2017,2017,209.99,Children Bicycles,Haro
+375,CHB94,Haro Shredder Pro 20 - 2017,2017,249.99,Children Bicycles,Haro
+376,CHB95,"Electra Girl's Hawaii 1 16"" - 2017",2017,299.99,Children Bicycles,Electra
+377,CHB96,Electra Moto 3i (20-inch) - Boy's - 2017,2017,349.99,Children Bicycles,Electra
+378,CHB97,Electra Savannah 3i (20-inch) - Girl's - 2017,2017,349.99,Children Bicycles,Electra
+379,CHB98,Electra Straight 8 3i (20-inch) - Boy's - 2017,2017,489.99,Children Bicycles,Electra
+380,CHB99,Electra Sugar Skulls 1 (20-inch) - Girl's - 2017,2017,299.99,Children Bicycles,Electra
+381,CMB102,Electra Townie Original 7D - 2017,2017,489.99,Comfort Bicycles,Electra
+382,CMB103,Sun Bicycles Streamway 3 - 2017,2017,551.99,Comfort Bicycles,Sun Bicycles
+383,CMB104,Sun Bicycles Streamway - 2017,2017,481.99,Comfort Bicycles,Sun Bicycles
+384,CMB105,Sun Bicycles Streamway 7 - 2017,2017,533.99,Comfort Bicycles,Sun Bicycles
+385,CMB106,Sun Bicycles Cruz 3 - 2017,2017,449.99,Comfort Bicycles,Sun Bicycles
+386,CMB107,Sun Bicycles Cruz 7 - 2017,2017,416.99,Comfort Bicycles,Sun Bicycles
+387,CMB108,Sun Bicycles Cruz 3 - Women's - 2017,2017,449.99,Comfort Bicycles,Sun Bicycles
+388,CMB109,Sun Bicycles Cruz 7 - Women's - 2017,2017,416.99,Comfort Bicycles,Sun Bicycles
+389,CMB110,Sun Bicycles Drifter 7 - 2017,2017,470.99,Comfort Bicycles,Sun Bicycles
+390,CMB111,Sun Bicycles Drifter 7 - Women's - 2017,2017,470.99,Comfort Bicycles,Sun Bicycles
+391,CMB24,Electra Townie Original 21D - 2016,2016,549.99,Comfort Bicycles,Electra
+392,CMB25,Electra Townie Original 7D - 2015/2016,2016,499.99,Comfort Bicycles,Electra
+393,CMB26,Electra Townie Original 7D EQ - 2016,2016,599.99,Comfort Bicycles,Electra
+394,CMB299,Electra Townie Original 21D - 2018,2018,559.99,Comfort Bicycles,Electra
+395,CMB300,Electra Townie Balloon 3i EQ Ladies' - 2018,2018,799.99,Comfort Bicycles,Electra
+396,CMB301,Electra Townie Balloon 7i EQ - 2018,2018,899.99,Comfort Bicycles,Electra
+397,CMB302,Electra Townie Original 1 - 2018,2018,449.99,Comfort Bicycles,Electra
+398,CMB303,Electra Townie Go! 8i - 2017/2018,2018,2599.99,Comfort Bicycles,Electra
+399,CMB304,Electra Townie Original 21D EQ - 2017/2018,2018,679.99,Comfort Bicycles,Electra
+400,CMB305,Electra Townie Balloon 3i EQ - 2017/2018,2018,749.99,Comfort Bicycles,Electra
+401,CMB306,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,2018,899.99,Comfort Bicycles,Electra
+402,CMB307,Electra Townie Balloon 8D EQ - 2016/2017/2018,2018,749.99,Comfort Bicycles,Electra
+403,CMB308,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,2018,749.99,Comfort Bicycles,Electra
+404,CMB309,Electra Townie Commute 27D - 2018,2018,899.99,Comfort Bicycles,Electra
+405,CMB310,Electra Townie Commute 27D Ladies - 2018,2018,899.99,Comfort Bicycles,Electra
+406,CMB311,Electra Townie Commute 8D - 2018,2018,749.99,Comfort Bicycles,Electra
+407,CMB312,Electra Townie Commute 8D Ladies' - 2018,2018,699.99,Comfort Bicycles,Electra
+408,CMB313,Electra Townie Original 1 Ladies' - 2018,2018,449.99,Comfort Bicycles,Electra
+409,CMB314,Electra Townie Original 21D EQ Ladies' - 2018,2018,679.99,Comfort Bicycles,Electra
+410,CMB315,Electra Townie Original 21D Ladies' - 2018,2018,559.99,Comfort Bicycles,Electra
+411,CRB12,Electra Townie Original 21D - 2016,2016,549.99,Cruisers Bicycles,Electra
+412,CRB13,Electra Cruiser 1 (24-Inch) - 2016,2016,269.99,Cruisers Bicycles,Electra
+413,CRB14,Electra Girl's Hawaii 1 (16-inch) - 2015/2016,2016,269.99,Cruisers Bicycles,Electra
+414,CRB15,Electra Moto 1 - 2016,2016,529.99,Cruisers Bicycles,Electra
+415,CRB16,Electra Townie Original 7D EQ - 2016,2016,599.99,Cruisers Bicycles,Electra
+416,CRB17,Pure Cycles Vine 8-Speed - 2016,2016,429.00,Cruisers Bicycles,Pure Cycles
+417,CRB18,Pure Cycles Western 3-Speed - Women's - 2015/2016,2016,449.00,Cruisers Bicycles,Pure Cycles
+418,CRB19,Pure Cycles William 3-Speed - 2016,2016,449.00,Cruisers Bicycles,Pure Cycles
+419,CRB20,Electra Townie Original 7D EQ - Women's - 2016,2016,599.99,Cruisers Bicycles,Electra
+420,CRB212,Electra Townie Original 21D - 2018,2018,559.99,Cruisers Bicycles,Electra
+421,CRB213,Electra Cruiser 1 - 2016/2017/2018,2018,269.99,Cruisers Bicycles,Electra
+422,CRB214,Electra Tiger Shark 3i - 2018,2018,899.99,Cruisers Bicycles,Electra
+423,CRB215,Electra Queen of Hearts 3i - 2018,2018,749.99,Cruisers Bicycles,Electra
+424,CRB216,Electra Super Moto 8i - 2018,2018,899.99,Cruisers Bicycles,Electra
+425,CRB217,Electra Straight 8 3i - 2018,2018,909.99,Cruisers Bicycles,Electra
+426,CRB218,Electra Cruiser 7D - 2016/2017/2018,2018,319.99,Cruisers Bicycles,Electra
+427,CRB219,Electra Moto 3i - 2018,2018,639.99,Cruisers Bicycles,Electra
+428,CRB220,Electra Cruiser 1 Ladies' - 2018,2018,269.99,Cruisers Bicycles,Electra
+429,CRB221,Electra Cruiser 7D Ladies' - 2016/2018,2018,319.99,Cruisers Bicycles,Electra
+430,CRB222,Electra Cruiser 1 Tall - 2016/2018,2018,269.99,Cruisers Bicycles,Electra
+431,CRB223,Electra Cruiser Lux 3i - 2018,2018,529.99,Cruisers Bicycles,Electra
+432,CRB224,Electra Cruiser Lux 7D - 2018,2018,479.99,Cruisers Bicycles,Electra
+433,CRB225,Electra Delivery 3i - 2016/2017/2018,2018,959.99,Cruisers Bicycles,Electra
+434,CRB226,Electra Townie Original 21D EQ - 2017/2018,2018,679.99,Cruisers Bicycles,Electra
+435,CRB227,Electra Cruiser 7D (24-Inch) Ladies' - 2016/2018,2018,319.99,Cruisers Bicycles,Electra
+436,CRB228,Electra Cruiser 7D Tall - 2016/2018,2018,319.99,Cruisers Bicycles,Electra
+437,CRB229,Electra Cruiser Lux 1 - 2016/2018,2018,429.99,Cruisers Bicycles,Electra
+438,CRB230,Electra Cruiser Lux 1 Ladies' - 2018,2018,429.99,Cruisers Bicycles,Electra
+439,CRB231,Electra Cruiser Lux 3i Ladies' - 2018,2018,529.99,Cruisers Bicycles,Electra
+440,CRB232,Electra Cruiser Lux 7D Ladies' - 2018,2018,479.99,Cruisers Bicycles,Electra
+441,CRB233,Electra Cruiser Lux Fat Tire 7D - 2018,2018,639.99,Cruisers Bicycles,Electra
+442,CRB234,Electra Daydreamer 3i Ladies' - 2018,2018,899.99,Cruisers Bicycles,Electra
+443,CRB235,Electra Koa 3i Ladies' - 2018,2018,899.99,Cruisers Bicycles,Electra
+444,CRB236,Electra Morningstar 3i Ladies' - 2018,2018,749.99,Cruisers Bicycles,Electra
+445,CRB237,Electra Relic 3i - 2018,2018,849.99,Cruisers Bicycles,Electra
+446,CRB238,Electra Townie Balloon 8D EQ - 2016/2017/2018,2018,749.99,Cruisers Bicycles,Electra
+447,CRB239,Electra Townie Balloon 8D EQ Ladies' - 2016/2017/2018,2018,749.99,Cruisers Bicycles,Electra
+448,CRB240,Electra Townie Commute 27D Ladies - 2018,2018,899.99,Cruisers Bicycles,Electra
+449,CRB241,Electra Townie Commute 8D - 2018,2018,749.99,Cruisers Bicycles,Electra
+450,CRB242,Electra Townie Commute 8D Ladies' - 2018,2018,699.99,Cruisers Bicycles,Electra
+451,CRB243,Electra Townie Original 21D EQ Ladies' - 2018,2018,679.99,Cruisers Bicycles,Electra
+452,CRB244,Electra Townie Original 21D Ladies' - 2018,2018,559.99,Cruisers Bicycles,Electra
+453,CRB245,Electra Townie Original 3i EQ - 2017/2018,2018,659.99,Cruisers Bicycles,Electra
+454,CRB246,Electra Townie Original 3i EQ Ladies' - 2018,2018,639.99,Cruisers Bicycles,Electra
+455,CRB247,Electra Townie Original 7D EQ - 2018,2018,599.99,Cruisers Bicycles,Electra
+456,CRB248,Electra Townie Original 7D EQ Ladies' - 2017/2018,2018,599.99,Cruisers Bicycles,Electra
+457,CRB249,Electra White Water 3i - 2018,2018,749.99,Cruisers Bicycles,Electra
+458,CRB250,Electra Townie Go! 8i - 2017/2018,2018,2599.99,Cruisers Bicycles,Electra
+459,CRB251,Electra Townie Commute Go! - 2018,2018,2999.99,Cruisers Bicycles,Electra
+460,CRB252,Electra Townie Commute Go! Ladies' - 2018,2018,2999.99,Cruisers Bicycles,Electra
+461,CRB253,Electra Townie Go! 8i Ladies' - 2018,2018,2599.99,Cruisers Bicycles,Electra
+462,CRB254,Electra Townie Balloon 3i EQ - 2017/2018,2018,749.99,Cruisers Bicycles,Electra
+463,CRB255,Electra Townie Balloon 7i EQ Ladies' - 2017/2018,2018,899.99,Cruisers Bicycles,Electra
+464,CRB256,Electra Townie Commute 27D - 2018,2018,899.99,Cruisers Bicycles,Electra
+465,CRB257,Electra Amsterdam Fashion 3i Ladies' - 2017/2018,2018,899.99,Cruisers Bicycles,Electra
+466,CRB258,Electra Amsterdam Royal 8i - 2017/2018,2018,1259.90,Cruisers Bicycles,Electra
+467,CRB259,Electra Amsterdam Royal 8i Ladies - 2018,2018,1199.99,Cruisers Bicycles,Electra
+468,CRB260,Electra Townie Balloon 3i EQ Ladies' - 2018,2018,799.99,Cruisers Bicycles,Electra
+469,CRB261,Electra Townie Balloon 7i EQ - 2018,2018,899.99,Cruisers Bicycles,Electra
+470,CRB64,Electra Townie Original 7D - 2017,2017,489.99,Cruisers Bicycles,Electra
+471,CRB65,Sun Bicycles Lil Bolt Type-R - 2017,2017,346.99,Cruisers Bicycles,Sun Bicycles
+472,CRB66,Sun Bicycles Revolutions 24 - 2017,2017,250.99,Cruisers Bicycles,Sun Bicycles
+473,CRB67,Sun Bicycles Revolutions 24 - Girl's - 2017,2017,250.99,Cruisers Bicycles,Sun Bicycles
+474,CRB68,Sun Bicycles Cruz 3 - 2017,2017,449.99,Cruisers Bicycles,Sun Bicycles
+475,CRB69,Sun Bicycles Cruz 7 - 2017,2017,416.99,Cruisers Bicycles,Sun Bicycles
+476,CRB70,Electra Amsterdam Original 3i - 2015/2017,2017,659.99,Cruisers Bicycles,Electra
+477,CRB71,Sun Bicycles Atlas X-Type - 2017,2017,416.99,Cruisers Bicycles,Sun Bicycles
+478,CRB72,Sun Bicycles Biscayne Tandem 7 - 2017,2017,619.99,Cruisers Bicycles,Sun Bicycles
+479,CRB73,Sun Bicycles Brickell Tandem 7 - 2017,2017,749.99,Cruisers Bicycles,Sun Bicycles
+480,CRB74,Electra Cruiser Lux 1 - 2017,2017,439.99,Cruisers Bicycles,Electra
+481,CRB75,Electra Cruiser Lux Fat Tire 1 Ladies - 2017,2017,599.99,Cruisers Bicycles,Electra
+482,CRB76,"Electra Girl's Hawaii 1 16"" - 2017",2017,299.99,Cruisers Bicycles,Electra
+483,CRB77,Electra Glam Punk 3i Ladies' - 2017,2017,799.99,Cruisers Bicycles,Electra
+484,CRB78,Sun Bicycles Biscayne Tandem CB - 2017,2017,647.99,Cruisers Bicycles,Sun Bicycles
+485,CRB79,Sun Bicycles Boardwalk (24-inch Wheels) - 2017,2017,402.99,Cruisers Bicycles,Sun Bicycles
+486,CRB80,Sun Bicycles Brickell Tandem CB - 2017,2017,761.99,Cruisers Bicycles,Sun Bicycles
+487,CRB81,Electra Amsterdam Fashion 7i Ladies' - 2017,2017,1099.99,Cruisers Bicycles,Electra
+488,CRB82,Electra Amsterdam Original 3i Ladies' - 2017,2017,659.99,Cruisers Bicycles,Electra
+489,CYB10,Surly Straggler - 2016,2016,1549.00,Cyclocross Bicycles,Surly
+490,CYB11,Surly Straggler 650b - 2016,2016,1680.99,Cyclocross Bicycles,Surly
+491,CYB206,Trek Boone 5 Disc - 2018,2018,3299.99,Cyclocross Bicycles,Trek
+492,CYB207,Trek Boone 7 Disc - 2018,2018,3999.99,Cyclocross Bicycles,Trek
+493,CYB208,Trek Crockett 5 Disc - 2018,2018,1799.99,Cyclocross Bicycles,Trek
+494,CYB209,Trek Crockett 7 Disc - 2018,2018,2999.99,Cyclocross Bicycles,Trek
+495,CYB210,Surly Straggler - 2018,2018,1549.00,Cyclocross Bicycles,Surly
+496,CYB211,Surly Straggler 650b - 2018,2018,1549.00,Cyclocross Bicycles,Surly
+497,CYB62,Trek Boone 7 - 2017,2017,3499.99,Cyclocross Bicycles,Trek
+498,CYB63,Trek Boone Race Shop Limited - 2017,2017,3499.99,Cyclocross Bicycles,Trek
+499,ELB185,Trek Conduit+ - 2018,2018,2799.99,Electric Bikes,Trek
+500,ELB186,Trek CrossRip+ - 2018,2018,4499.99,Electric Bikes,Trek
+501,ELB187,Trek Neko+ - 2018,2018,2799.99,Electric Bikes,Trek
+502,ELB188,Trek XM700+ Lowstep - 2018,2018,3499.99,Electric Bikes,Trek
+503,ELB189,Trek Lift+ Lowstep - 2018,2018,2799.99,Electric Bikes,Trek
+504,ELB190,Trek Dual Sport+ - 2018,2018,2799.99,Electric Bikes,Trek
+505,ELB191,Electra Loft Go! 8i - 2018,2018,2799.99,Electric Bikes,Electra
+506,ELB192,Electra Townie Go! 8i - 2017/2018,2018,2599.99,Electric Bikes,Electra
+507,ELB193,Trek Lift+ - 2018,2018,2799.99,Electric Bikes,Trek
+508,ELB194,Trek XM700+ - 2018,2018,3499.99,Electric Bikes,Trek
+509,ELB195,Electra Townie Go! 8i Ladies' - 2018,2018,2599.99,Electric Bikes,Electra
+510,ELB196,Trek Verve+ - 2018,2018,2299.99,Electric Bikes,Trek
+511,ELB197,Trek Verve+ Lowstep - 2018,2018,2299.99,Electric Bikes,Trek
+512,ELB198,Electra Townie Commute Go! - 2018,2018,2999.99,Electric Bikes,Electra
+513,ELB199,Electra Townie Commute Go! Ladies' - 2018,2018,2999.99,Electric Bikes,Electra
+514,ELB200,Trek Powerfly 5 - 2018,2018,3499.99,Electric Bikes,Trek
+515,ELB201,Trek Powerfly 5 FS - 2018,2018,4499.99,Electric Bikes,Trek
+516,ELB202,Trek Powerfly 5 Women's - 2018,2018,3499.99,Electric Bikes,Trek
+517,ELB203,Trek Powerfly 7 FS - 2018,2018,4999.99,Electric Bikes,Trek
+518,ELB204,Trek Super Commuter+ 7 - 2018,2018,3599.99,Electric Bikes,Trek
+519,ELB205,Trek Super Commuter+ 8S - 2018,2018,4999.99,Electric Bikes,Trek
+520,ELB60,Sun Bicycles ElectroLite - 2017,2017,1559.99,Electric Bikes,Sun Bicycles
+521,ELB61,Trek Powerfly 8 FS Plus - 2017,2017,4999.99,Electric Bikes,Trek
+522,ELB9,Trek Conduit+ - 2016,2016,2999.99,Electric Bikes,Trek
+523,MOB1,Trek 820 - 2016,2016,379.99,Mountain Bikes,Trek
+524,MOB112,Trek 820 - 2018,2018,379.99,Mountain Bikes,Trek
+525,MOB113,Trek Marlin 5 - 2018,2018,489.99,Mountain Bikes,Trek
+526,MOB114,Trek Marlin 6 - 2018,2018,579.99,Mountain Bikes,Trek
+527,MOB115,Trek Fuel EX 8 29 - 2018,2018,3199.99,Mountain Bikes,Trek
+528,MOB116,Trek Marlin 7 - 2017/2018,2018,749.99,Mountain Bikes,Trek
+529,MOB117,Trek Ticket S Frame - 2018,2018,1469.99,Mountain Bikes,Trek
+530,MOB118,Trek X-Caliber 8 - 2018,2018,999.99,Mountain Bikes,Trek
+531,MOB119,Trek Kids' Neko - 2018,2018,469.99,Mountain Bikes,Trek
+532,MOB120,Trek Fuel EX 7 29 - 2018,2018,2499.99,Mountain Bikes,Trek
+533,MOB121,Surly Krampus Frameset - 2018,2018,2499.99,Mountain Bikes,Surly
+534,MOB122,Surly Troll Frameset - 2018,2018,2499.99,Mountain Bikes,Surly
+535,MOB123,Trek Farley Carbon Frameset - 2018,2018,999.99,Mountain Bikes,Trek
+536,MOB124,Surly Krampus - 2018,2018,1499.00,Mountain Bikes,Surly
+537,MOB125,Trek Kids' Dual Sport - 2018,2018,469.99,Mountain Bikes,Trek
+538,MOB126,Surly Big Fat Dummy Frameset - 2018,2018,469.99,Mountain Bikes,Surly
+539,MOB127,Surly Pack Rat Frameset - 2018,2018,469.99,Mountain Bikes,Surly
+540,MOB128,Surly ECR 27.5 - 2018,2018,1899.00,Mountain Bikes,Surly
+541,MOB129,Trek X-Caliber 7 - 2018,2018,919.99,Mountain Bikes,Trek
+542,MOB130,Trek Stache Carbon Frameset - 2018,2018,919.99,Mountain Bikes,Trek
+543,MOB131,Heller Bloodhound Trail - 2018,2018,2599.00,Mountain Bikes,Heller
+544,MOB132,Trek Procal AL Frameset - 2018,2018,1499.99,Mountain Bikes,Trek
+545,MOB133,Trek Procaliber Frameset - 2018,2018,1499.99,Mountain Bikes,Trek
+546,MOB134,Trek Remedy 27.5 C Frameset - 2018,2018,1499.99,Mountain Bikes,Trek
+547,MOB135,Trek X-Caliber Frameset - 2018,2018,1499.99,Mountain Bikes,Trek
+548,MOB136,Trek Procaliber 6 - 2018,2018,1799.99,Mountain Bikes,Trek
+549,MOB137,Heller Shagamaw GX1 - 2018,2018,2599.00,Mountain Bikes,Heller
+550,MOB138,Trek Fuel EX 5 Plus - 2018,2018,2249.99,Mountain Bikes,Trek
+551,MOB139,Trek Remedy 7 27.5 - 2018,2018,2999.99,Mountain Bikes,Trek
+552,MOB140,Trek Remedy 9.8 27.5 - 2018,2018,4999.99,Mountain Bikes,Trek
+553,MOB141,Trek Stache 5 - 2018,2018,1599.99,Mountain Bikes,Trek
+554,MOB142,Trek Fuel EX 8 29 XT - 2018,2018,3199.99,Mountain Bikes,Trek
+555,MOB2,Ritchey Timberwolf Frameset - 2016,2016,749.99,Mountain Bikes,Ritchey
+556,MOB27,Surly Big Dummy Frameset - 2017,2017,999.99,Mountain Bikes,Surly
+557,MOB28,Surly Karate Monkey 27.5+ Frameset - 2017,2017,2499.99,Mountain Bikes,Surly
+558,MOB29,Trek X-Caliber 8 - 2017,2017,999.99,Mountain Bikes,Trek
+559,MOB3,Surly Wednesday Frameset - 2016,2016,999.99,Mountain Bikes,Surly
+560,MOB30,Surly Ice Cream Truck Frameset - 2017,2017,999.99,Mountain Bikes,Surly
+561,MOB31,Surly Wednesday - 2017,2017,1632.99,Mountain Bikes,Surly
+562,MOB32,Trek Farley Alloy Frameset - 2017,2017,469.99,Mountain Bikes,Trek
+563,MOB33,Surly Wednesday Frameset - 2017,2017,469.99,Mountain Bikes,Surly
+564,MOB34,Trek Session DH 27.5 Carbon Frameset - 2017,2017,469.99,Mountain Bikes,Trek
+565,MOB35,Sun Bicycles Spider 3i - 2017,2017,832.99,Mountain Bikes,Sun Bicycles
+566,MOB36,Surly Troll Frameset - 2017,2017,832.99,Mountain Bikes,Surly
+567,MOB37,Haro Flightline One ST - 2017,2017,379.99,Mountain Bikes,Haro
+568,MOB38,Haro Flightline Two 26 Plus - 2017,2017,549.99,Mountain Bikes,Haro
+569,MOB39,Trek Stache 5 - 2017,2017,1499.99,Mountain Bikes,Trek
+570,MOB4,Trek Fuel EX 8 29 - 2016,2016,2899.99,Mountain Bikes,Trek
+571,MOB40,Trek Fuel EX 9.8 29 - 2017,2017,4999.99,Mountain Bikes,Trek
+572,MOB41,Haro Shift R3 - 2017,2017,1469.99,Mountain Bikes,Haro
+573,MOB42,Trek Fuel EX 5 27.5 Plus - 2017,2017,2299.99,Mountain Bikes,Trek
+574,MOB43,Trek Fuel EX 9.8 27.5 Plus - 2017,2017,5299.99,Mountain Bikes,Trek
+575,MOB44,Haro SR 1.1 - 2017,2017,539.99,Mountain Bikes,Haro
+576,MOB45,Haro SR 1.2 - 2017,2017,869.99,Mountain Bikes,Haro
+577,MOB46,Haro SR 1.3 - 2017,2017,1409.99,Mountain Bikes,Haro
+578,MOB47,Trek Remedy 9.8 - 2017,2017,5299.99,Mountain Bikes,Trek
+579,MOB5,Heller Shagamaw Frame - 2016,2016,1320.99,Mountain Bikes,Heller
+580,MOB6,Surly Ice Cream Truck Frameset - 2016,2016,469.99,Mountain Bikes,Surly
+581,MOB7,Trek Slash 8 27.5 - 2016,2016,3999.99,Mountain Bikes,Trek
+582,MOB8,Trek Remedy 29 Carbon Frameset - 2016,2016,1799.99,Mountain Bikes,Trek
+583,RDB143,Trek Domane ALR 3 - 2018,2018,1099.99,Road Bikes,Trek
+584,RDB144,Trek Domane ALR 4 Disc - 2018,2018,1549.99,Road Bikes,Trek
+585,RDB145,Trek Domane ALR 5 Disc - 2018,2018,1799.99,Road Bikes,Trek
+586,RDB146,Trek Domane SLR 6 - 2018,2018,4999.99,Road Bikes,Trek
+587,RDB147,Trek Domane ALR 5 Gravel - 2018,2018,1799.99,Road Bikes,Trek
+588,RDB148,Trek Domane SL 8 Disc - 2018,2018,5499.99,Road Bikes,Trek
+589,RDB149,Trek Domane SLR 8 Disc - 2018,2018,7499.99,Road Bikes,Trek
+590,RDB150,Trek Emonda SL 7 - 2018,2018,4499.99,Road Bikes,Trek
+591,RDB151,Trek Domane ALR 4 Disc Women's - 2018,2018,1549.99,Road Bikes,Trek
+592,RDB152,Trek Domane SL 5 Disc Women's - 2018,2018,2499.99,Road Bikes,Trek
+593,RDB153,Trek Domane SL 7 Women's - 2018,2018,4999.99,Road Bikes,Trek
+594,RDB154,Trek Domane SLR 6 Disc Women's - 2018,2018,5499.99,Road Bikes,Trek
+595,RDB155,Trek Domane SLR 9 Disc - 2018,2018,11999.99,Road Bikes,Trek
+596,RDB156,Trek Domane SL Frameset - 2018,2018,6499.99,Road Bikes,Trek
+597,RDB157,Trek Domane SL Frameset Women's - 2018,2018,6499.99,Road Bikes,Trek
+598,RDB158,Trek CrossRip 1 - 2018,2018,959.99,Road Bikes,Trek
+599,RDB159,Trek Emonda ALR 6 - 2018,2018,2299.99,Road Bikes,Trek
+600,RDB160,Trek Emonda SLR 6 - 2018,2018,4499.99,Road Bikes,Trek
+601,RDB161,Surly ECR - 2018,2018,1899.00,Road Bikes,Surly
+602,RDB162,Trek Emonda SL 6 Disc - 2018,2018,2999.99,Road Bikes,Trek
+603,RDB163,Surly Pack Rat - 2018,2018,1349.00,Road Bikes,Surly
+604,RDB164,Surly Straggler 650b - 2018,2018,1549.00,Road Bikes,Surly
+605,RDB165,Trek 1120 - 2018,2018,2499.99,Road Bikes,Trek
+606,RDB166,Trek Domane AL 2 Women's - 2018,2018,749.99,Road Bikes,Trek
+607,RDB167,Surly ECR Frameset - 2018,2018,749.99,Road Bikes,Surly
+608,RDB168,Surly Straggler - 2018,2018,1549.00,Road Bikes,Surly
+609,RDB169,Trek Emonda SLR 8 - 2018,2018,6499.99,Road Bikes,Trek
+610,RDB170,Trek CrossRip 2 - 2018,2018,1299.99,Road Bikes,Trek
+611,RDB171,Trek Domane SL 6 - 2018,2018,3199.99,Road Bikes,Trek
+612,RDB172,Trek Domane ALR Disc Frameset - 2018,2018,3199.99,Road Bikes,Trek
+613,RDB173,Trek Domane ALR Frameset - 2018,2018,3199.99,Road Bikes,Trek
+614,RDB174,Trek Domane SLR Disc Frameset - 2018,2018,3199.99,Road Bikes,Trek
+615,RDB175,Trek Domane SLR Frameset - 2018,2018,3199.99,Road Bikes,Trek
+616,RDB176,Trek Madone 9 Frameset - 2018,2018,3199.99,Road Bikes,Trek
+617,RDB177,Trek Domane SLR 6 Disc - 2018,2018,5499.99,Road Bikes,Trek
+618,RDB178,Trek Domane AL 2 - 2018,2018,749.99,Road Bikes,Trek
+619,RDB179,Trek Domane AL 3 - 2018,2018,919.99,Road Bikes,Trek
+620,RDB180,Trek Domane AL 3 Women's - 2018,2018,919.99,Road Bikes,Trek
+621,RDB181,Trek Domane SL 5 - 2018,2018,2199.99,Road Bikes,Trek
+622,RDB182,Trek Domane SL 5 Disc - 2018,2018,2499.99,Road Bikes,Trek
+623,RDB183,Trek Domane SL 5 Women's - 2018,2018,2199.99,Road Bikes,Trek
+624,RDB184,Trek Domane SL 6 Disc - 2018,2018,3499.99,Road Bikes,Trek
+625,RDB316,Trek Checkpoint ALR 4 Women's - 2019,2019,1699.99,Road Bikes,Trek
+626,RDB317,Trek Checkpoint ALR 5 - 2019,2019,1999.99,Road Bikes,Trek
+627,RDB318,Trek Checkpoint ALR 5 Women's - 2019,2019,1999.99,Road Bikes,Trek
+628,RDB319,Trek Checkpoint SL 5 Women's - 2019,2019,2799.99,Road Bikes,Trek
+629,RDB320,Trek Checkpoint SL 6 - 2019,2019,3799.99,Road Bikes,Trek
+630,RDB321,Trek Checkpoint ALR Frameset - 2019,2019,3199.99,Road Bikes,Trek
+631,RDB48,Trek Emonda S 4 - 2017,2017,1499.99,Road Bikes,Trek
+632,RDB49,Trek Domane SL 6 - 2017,2017,3499.99,Road Bikes,Trek
+633,RDB50,Trek Silque SLR 7 Women's - 2017,2017,5999.99,Road Bikes,Trek
+634,RDB51,Trek Silque SLR 8 Women's - 2017,2017,6499.99,Road Bikes,Trek
+635,RDB52,Surly Steamroller - 2017,2017,875.99,Road Bikes,Surly
+636,RDB53,Surly Ogre Frameset - 2017,2017,749.99,Road Bikes,Surly
+637,RDB54,Trek Domane SL Disc Frameset - 2017,2017,3199.99,Road Bikes,Trek
+638,RDB55,Trek Domane S 6 - 2017,2017,2699.99,Road Bikes,Trek
+639,RDB56,Trek Domane SLR 6 Disc - 2017,2017,5499.99,Road Bikes,Trek
+640,RDB57,Trek Emonda S 5 - 2017,2017,1999.99,Road Bikes,Trek
+641,RDB58,Trek Madone 9.2 - 2017,2017,4999.99,Road Bikes,Trek
+642,RDB59,Trek Domane S 5 Disc - 2017,2017,2599.99,Road Bikes,Trek
